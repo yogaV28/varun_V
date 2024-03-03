@@ -1,18 +1,16 @@
 Question: I take famotidine for acid indigestion and I'm taking drops for glaucoma. I have heard
-that famotidine may contribute to glaucoma and want to know if this is true.?
+that famotidine may contribute to glaucoma and want to know if this is true?
 Answer: While it is unlikely that famotidine is definitively related to glaucoma, it does fall in the
 class of antihistamines (H2 Blocker) that may raise the risk of acute angle closure
 glaucoma for some people with narrow angles.
 With glaucoma, each person's risk profile is unique, so it's best to discuss your
 medications with your ophthalmologist.. They can help determine which of your
 medications you can safely take and the ones you should avoid.
-
 Question: How does using antihistamines affect my glaucoma?
 Answer: Antihistamines can cause an angle closure glaucoma attack (when fluid is completely
 blocked from leaving the eye, causing a dangerous rise in pressure) in some patients
 who have narrow angles. You should check with your ophthalmologist to learn what type
 of glaucoma you have and whether antihistamine usage could cause this problem.
-
 Question: What can I take for sea sickness if I have narrow angle glaucoma but have had an
 iridotomy?
 Answer: The type of medication taken for motion sickness can make your pupils dilate, which can
@@ -27,7 +25,6 @@ safe in your particular situation.
 Unfortunately I'm not aware of any other types of medication for motion sickness, and
 medication alternatives like acupressure wristbands have not been clearly shown to be
 effective.
-
 Question: I am using timolol eye drops and I might have myasthenia gravis—is it safe to use them?
 Answer: Systemic beta blockers are generally not preferred in patients with myasthenia gravis (a
 disorder that causes muscles to weaken and tire easily). They can cause fatigue but the
@@ -42,7 +39,6 @@ symptoms go away. You can then restart the beta blockers and see if symptoms wor
 again. If you determine that beta blocker drops do, in fact, worsens your myasthenia
 gravis symptoms or cause fatigue you may then ask your ophthalmologist to choose
 different options for your glaucoma treatment
-
 Question: Can a corneal implant correct normal pressure glaucoma?
 Answer: Corneal transplant surgery (which I assume you mean by "implant") is done for a variety
 of reasons; unfortunately, glaucoma is not one of them. In fact, a possible complication
@@ -50,21 +46,15 @@ of corneal transplants is increased eye pressure. As a result, some people with
 glaucoma may have more problems with their glaucoma or their transplants following
 surgery. Cornea and glaucoma specialists know to monitor for these problems, and both
 are typically involved in the management of such complicated cases.
-
-
 Question: Can supplements help glaucoma?
 Answer: There is no strong evidence at this time that either vitamin or non-vitamin supplements
 can help glaucoma, however this is an area of ongoing research. A healthy, nutrient-rich
 diet can lower your risk for certain eye diseases, however. It is important to talk to your
 ophthalmologist and/or primary care provider about the possible risks before taking any
 supplement.
-
-
 Question: Can I have LASIK if I am a glaucoma suspect?
 Answer: Given otherwise healthy eyes this should not be a problem. Modern-day LASIK does not
 raise eye pressure much and it only does so for 15 to 20 seconds at most.
-
-
 Question: My partner who has Alzheimer’s and does not want to take her glaucoma drops twice a
 day. Can you combine two medications to lessen the aggravation of putting the drops in
 morning and night?
@@ -76,8 +66,6 @@ months. Finally, there are a variety of procedures that can lower the eye pressu
 reduce, or sometimes even eliminate, the need for drops. All of these options have their
 relative advantages and disadvantages. I would recommend discussing this issue further
 with your partner's ophthalmologist.
-
-
 Question: When I do visual field testing, it causes neck pain due to an old injury. Is there a shorter
 version or a different test which would be less painful?
 Answer: There are shorter test versions that can be performed on some visual field machines,
@@ -86,11 +74,3 @@ good positioning is important: you should be seated comfortably with your back s
 and at the appropriate height for the test bowl, meaning you should not have to slump to
 reach the chin rest or stretch to reach the forehead rest. You should discuss this problem
 with your eye care provider.
-
-
-Question: Is it safe to use a SAD light therapy lamp for insomnia with glaucoma, fibromyalgia and
-chronic fatigue syndrome? It’s been suggested as part of "Sleep Restriction Therapy" for
-insomnia where avoiding sleep is more likely to induce sleep.?
-Answer: I cannot comment on the effectiveness of lights for seasonal affective disorder (SAD) or
-insomnia. But I do not think it is unsafe to use these treatments, and if you feel they are
-helpful for your condition it is likely safe to use.
